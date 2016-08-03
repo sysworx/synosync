@@ -12,6 +12,8 @@ The Tool uses two Xojo commercial pugins:
  
 These two plugins were needed to run and compile the tool.
 
+Keep in mind, this was my first xojo app, so there can be code issues or unclean routines...feel free to correct them.
+
 # Changelog
 0.9
 - Timeout exception while adding links is handled now
