@@ -38,4 +38,4 @@ Keep in mind, this was my first xojo app, so there can be code issues or unclean
 - added Multilanguage-Support (English / German)
 
 # Binary Downloads
-The last known binary version 0.9 for OSX can be found here: https://www.sys-worx.net/software/osx-synosync-en/
+The last known binary version 0.9 for OSX can be found in the releases section.
